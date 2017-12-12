@@ -1,2 +1,2 @@
-first greeting :Howdy!
+first greeting :How are you?
 second greeting: Namaste!
